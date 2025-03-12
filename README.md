@@ -1,2 +1,2 @@
-# MARINA-model
-Maritime Artificial Routing Intelligence &amp; Navigation Analysis
+MARINA model
+maritime artificial routing intelligence navigation analysis
